@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AppMakeColorRGB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppMakeColorRGB_jar</output-path>
+    <root id="archive" name="AppMakeColorRGB.jar">
+      <element id="module-output" name="AppMakeColorRGB" />
+    </root>
+  </artifact>
+</component>
